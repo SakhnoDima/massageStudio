@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 :root {
-    --background: #ffffff;
-    --foreground: #171717;
+    --prime-accent: #293f14;
+    --secondary-accent: #f86a38;
 }
 
 body {
-    color: var(--foreground);
+    /* color: var(--foreground);
     background: var(--background);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif; */
 }
